@@ -1,5 +1,5 @@
 # Hey there! I'm Robert 👋
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([[Your LinkedIn URL](https://www.linkedin.com/in/robert-lennon-082b79303/)])
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/robert-lennon-082b79303/)])
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[robert025@btinternet.com])
 
 Welcome to my GitHub corner! I’m a data enthusiast who loves learning about analysing, and building cool data-driven projects. Here you’ll find dashboards, SQL scripts, Power BI reports, and experiments as I level up my analytics journey. 🚀
