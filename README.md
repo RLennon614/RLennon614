@@ -34,7 +34,7 @@ Welcome to my GitHub corner! I’m a data enthusiast who loves learning about an
 
 ### ☁️ Azure  
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-- Experience teaching Azure SQL Database & Storage  
+- Learning About using Azure SQL Database & Storage  
 - Building an *Introduction to Azure* course  
 - Comfortable with cloud data concepts
 
@@ -42,7 +42,7 @@ Welcome to my GitHub corner! I’m a data enthusiast who loves learning about an
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - Data analysis with pandas and NumPy  
 - Beginner-friendly automations  
-- Learned Python basics in data bootcamps
+- Learned Python basics in Data Bootcamps
 
 ---
 
