@@ -1,129 +1,66 @@
-## Hi there My Name Robert Lennon👋
+# Hey there! I'm Robert 👋
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([[Your LinkedIn URL](https://www.linkedin.com/in/robert-lennon-082b79303/)])
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[robert025@btinternet.com])
 
-<!--
-**RLennon614/RLennon614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub corner! I’m a data enthusiast who loves learning about analysing, and building cool data-driven projects. Here you’ll find dashboards, SQL scripts, Power BI reports, and experiments as I level up my analytics journey. 🚀
 
-Hi there! I'm [ Robert Lennon] 👋
+---
 
-[]([Your LinkedIn URL])
-[](mailto:[Robert025@btinternet.com])
+## 🔧 What I Work With
 
-💡 Data Philosophy
+### 📊 Excel  
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+- Cleaning and transforming messy data  
+- PivotTables, dashboards, and formula magic  
+- Learning Excel fundamentals
 
-I am a passionate Learner about Data Analyst and Business Intelligence (BI) Developer dedicated to transforming complex data into clear, actionable business strategies. 
-My goal is to build robust data pipelines, create insightful visualizations, and drive data literacy across teams.
+### 📈 Tableau  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+- Interactive dashboards and storytelling  
+- Global Superstore analyses  
+- Calculated fields, parameters, and filters
 
-I believe data is the foundation of innovation, and I focus on using the right tool for the right job to deliver accurate and impactful results.
+### 📊 Power BI  
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+- Data modelling, DAX, and Power Query  
+- Real-world reporting projects  
 
-🛠️ My Core Data Stack
 
-Here are the technologies and platforms I use to acquire, process, analyze, and visualize data:
+### 🗂️ SQL  
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- Writing joins, aggregations, CTEs  
+- Querying relational databases  
+- Learning to understand SQL basics
 
-💻 Programming & ETL
+### ☁️ Azure  
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+- Experience teaching Azure SQL Database & Storage  
+- Building an *Introduction to Azure* course  
+- Comfortable with cloud data concepts
 
-Tool
+### 🐍 Python  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- Data analysis with pandas and NumPy  
+- Beginner-friendly automations  
+- Learned Python basics in data bootcamps
 
-Logo
+---
 
-Focus & Proficiency
+## 🤣 Data Memes  
+Because learning data shouldn’t be serious all the time:
 
-Key Skills
+- “I’ll fix it later” — **every dashboard ever**  
+- *SQL*: The art of turning English into error messages  
+- When Excel crashes and you realise you haven’t saved since 2019  
+- Power BI refresh: **99%… 99%… 99%…**
 
-Python
+---
 
+## 📫 Connect With Me
+-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([[Your LinkedIn URL](https://www.linkedin.com/in/robert-lennon-082b79303/)])
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[robert025@btinternet.com]) 
+-  
 
-
-Data Science & Automation
-
-Expertise in using Pandas for robust data cleaning, manipulation, and transformation. Skilled in NumPy for numerical analysis, and leveraging libraries like Scikit-learn for machine learning models and statistical analysis.
-
-SQL
-
-
-
-Database Management & Querying
-
-Proficient in writing complex queries (joins, subqueries, CTEs) for data extraction and reporting. Experienced in schema design, index optimization, and utilizing analytical functions to prepare data for visualization.
-
-📊 Visualization & Business Intelligence
-
-Tool
-
-Logo
-
-Focus & Proficiency
-
-Key Skills
-
-Power BI
-
-
-
-Tableau
-
-
-
-Interactive Visualization
-
-Skilled in creating compelling, visually rich dashboards that allow users to drill down and explore data intuitively. Focus on data storytelling, visual best practices, and connecting to various live data sources.
-
-Excel
-
-
-
-Ad-hoc Analysis & Prototyping
-
-Utilized for quick data exploration, financial modeling, and detailed reporting. Strong skills include Pivot Tables, advanced formula writing (e.g., INDEX/MATCH, XLOOKUP), and VBA for macro automation.
-
-☁️ Cloud & Infrastructure
-
-Tool
-
-Logo
-
-Focus & Proficiency
-
-Key Skills
-
-Microsoft Azure
-
-
-
-Cloud Data Services
-
-Experience deploying and managing data solutions in the Azure ecosystem. Familiar with key services like Azure SQL Database, Azure Data Factory for data ingestion, and managing secure data environments.
-
-⭐ Featured Projects
-
-Project Name
-
-Tools Used
-
-Description
-
-[E-commerce Sales Forecast]([Link to Project])
-
-Python, SQL
-
-Developed a predictive model to forecast future sales using time-series analysis on customer transaction data pulled from a SQL backend.
-
-[Logistics Dashboard]([Link to Project])
-
-Tableau, Power BI
-
-Built comparative BI dashboards to track delivery efficiency and identify bottlenecks across multiple regions.
-
-[Data Pipeline Automation]([Link to Project])
-
-Azure, Python
-
-Created an end-to-end cloud pipeline using Azure services and Python scripting to automatically ingest, transform, and load data daily.
-
-📈 GitHub Stats
-
-Placeholder for GitHub Stats
-
-
-[]([Your GitHub Profile URL])
+---
 
 
