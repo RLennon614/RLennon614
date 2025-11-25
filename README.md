@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/robert-lennon-082b79303/)])
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[robert025@btinternet.com])
 
-Welcome to my GitHub corner! I’m a data enthusiast who loves learning about analysing, and building cool data-driven projects. Here you’ll find dashboards, SQL scripts, Power BI reports, and experiments as I level up my analytics journey. 🚀
+Welcome to my GitHub corner! Aspiring Data Analyst currently building a strong foundation in Python, SQL, and data visualization. I’m passionate about transforming raw data into meaningful insights and using analytics to answer real-world questions. This GitHub serves as a portfolio of my learning journey—from exploratory data analysis and data cleaning exercises to end-to-end projects that challenge me to think critically and improve my workflow. Always learning, always improving. 🚀
 
 ---
 
